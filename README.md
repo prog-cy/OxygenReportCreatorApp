@@ -1,6 +1,6 @@
 # Oxygen Report Creator
 
-An Android Application to create a Oxygen Report in pdf format.
+An Android Application to create an Oxygen Report in pdf format.
 
 ## Requirements
 - Android Studio
